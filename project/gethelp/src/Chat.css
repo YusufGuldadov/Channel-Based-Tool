@@ -1,0 +1,30 @@
+.chat-container {
+    background-color: #958fd0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
+    text-align: center; /* Center the content inside the chat container */
+}
+
+.chat-heading {
+    color: #a71b1b;
+}
+
+.comment-container {
+    /* Add some styles to make sure the comment container is visible */
+    border: 1px solid #c4ee0c;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+.comment-text {
+    margin-bottom: 100px;
+}
+
+.reply-input {
+    margin-top: 20px;
+}
+
+.reply-button {
+    margin-top: 10px;
+}

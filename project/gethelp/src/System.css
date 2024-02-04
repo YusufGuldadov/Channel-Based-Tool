@@ -1,0 +1,18 @@
+/* SignUp.css */
+.system-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(1, 138, 159); /* Add your background color */
+}
+
+.text-box {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid #06c8dd; /* Add your desired border styling */
+  border-radius: 8px; /* Add your desired border radius */
+  background-color: #4f945f; /* Add your desired background color */
+  margin-top: 20px; /* Add your desired top margin */
+}

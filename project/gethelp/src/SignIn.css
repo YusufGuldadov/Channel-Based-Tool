@@ -1,0 +1,18 @@
+/* SignIn.css */
+.signin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(3, 108, 118); /* Add your background color */
+  }
+  
+  .signin-form {
+    max-width: 300px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #9b2828;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(237, 3, 3, 0.1);
+  }
